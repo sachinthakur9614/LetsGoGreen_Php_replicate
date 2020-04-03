@@ -1,0 +1,9 @@
+.main_container {
+		margin-top:0px;
+		vertical-align:top;
+		border: 1px solid #dcdcdc;
+		background: #fff;
+		-webkit-box-shadow: 0 5px 12px rgba(0, 0, 0, 0.06);
+		box-shadow: 0 5px 12px rgba(0, 0, 0, 0.06);
+		padding: 20px;
+	}
